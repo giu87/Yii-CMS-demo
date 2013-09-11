@@ -22,9 +22,9 @@ return array(
 		// uncomment the following to enable the Gii tool
 		'gii'=>array(
 			'class'=>'system.gii.GiiModule',
-			'password'=>'gdvpsgv',
+			'password'=>'***',
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
-			'ipFilters'=>array('127.0.0.1','46.193.160.251','::1'),
+			'ipFilters'=>array('127.0.0.1','***','::1'),
 		),
 	),
 
@@ -47,9 +47,9 @@ return array(
 		*/
 		'db'=>array(
                         'class'=>'CDbConnection',
-                        'connectionString' => 'mysql:host=localhost;dbname=j87lhj02_db1',
-                        'username'=>'j87lhj02_jk84Kop',
-                        'password'=>'ygL*ZMv=Gx8c',
+                        'connectionString' => 'mysql:host=localhost;dbname=***',
+                        'username'=>'***',
+                        'password'=>'***',
                         'emulatePrepare'=>true,  // needed by some MySQL installations
 		),
 		// uncomment the following to use a MySQL database
